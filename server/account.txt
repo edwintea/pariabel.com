@@ -1,0 +1,78 @@
+Informasi VPS
+=============================
+
+VPS Premium
+Hostname : server.edwinwarming.com
+Main IP: 103.247.11.21
+Root pass: #(1tI9vZDe6Jj7
+
+IP address allocation:
+SSH Port: 22
+
+Parallels Power Panel
+=============================
+Username: root
+Password: #(1tI9vZDe6Jj7
+URL: https://IP-address:4643
+*PowerPanel adalah fasilitas pengelolaan VPS dari Parallels. Anda dapat melakukan reboot, shutdown, bahkan re-install VPS dari dalam PowerPanel.
+
+WHM Access (jika menggunakan cPanel)
+=============================
+Username: root
+Password: #(1tI9vZDe6Jj7
+URL: http://IP-address/whm
+
+Custom DNS Server Addresses
+=============================
+Semua domain yang didaftarkan di Rumahweb mendapatkan fasilitas Managed DNS yang memungkinkan Anda untuk membuat record DNS ke arah IP VPS Anda. Silahkan gunakan fasilitas tersebut untuk membuat record DNS.
+
+Dukungan Teknis
+=============================
+Anda bisa mendapatkan dukungan teknis kami melalui :
+
+E-mail teknis@rumahweb.com
+Livechat di halaman website kami
+Telepon ke 0274-882257 / 4463621
+
+
+==============================
+login vesta:
+https://103.247.11.21:8083/login/
+user:admin
+password:edwin210382Tea
+
+reset vesta admin:
+v-change-user-password admin passwordbaru
+
+
+
+
+USE SERVER HOSTNAME
+Username:	
+admin@server.edwinwarming.com
+Password:	
+IMAP hostname:	
+server.edwinwarming.com
+IMAP port:	
+143
+IMAP security:	
+STARTTLS
+IMAP auth method:	
+Normal password
+SMTP hostname:	
+server.edwinwarming.com
+SMTP port:	
+587
+SMTP security:	
+STARTTLS
+SMTP auth method:	
+Normal password
+Webmail URL:	
+http://103.247.11.21/webmail/
+=======================================
+https://colorlib.com/wp/free-business-website-templates/
+
+========================
+password client zone:pariabelTea123#
+
+

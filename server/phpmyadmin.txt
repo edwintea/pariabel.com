@@ -1,0 +1,7 @@
+$dbuser='phpmyadmin';
+$dbpass='GSmSdPA3QLJF';
+$basepath='';
+$dbname='phpmyadmin';
+$dbserver='localhost';
+$dbport='3306';
+$dbtype='mysql';

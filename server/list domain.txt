@@ -1,0 +1,15 @@
+domain:
+https://edwinwarming.com/
+sub domain:
+https://api.edwinwarming.com/
+https://pos.edwinwarming.com/
+https://doc.edwinwarming.com/
+https://cdn.edwinwarming.com/
+https://payments.edwinwarming.com/
+https://streaming.edwinwarming.com/
+https://lib.edwinwarming.com/
+https://css.edwinwarming.com/
+https://js.edwinwarming.com/
+https://tickets.edwinwarming.com/
+
+https://edwinwarming.com/

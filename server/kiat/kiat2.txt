@@ -1,0 +1,40 @@
+﻿buka webmail:
+https://www.rumahweb.com/journal/mengakses-email-melalui-webmail/
+konfigurasi ssl:
+https://www.rumahweb.com/journal/konfigurasi-ssl-pada-vps-ubuntu-16-04/
+tulis command:
+openssl req –new –newkey rsa:2048 –nodes –keyout namadomain.key –out namadomain.csr
+
+install ssl
+https://support.globalsign.com/ssl/ssl-certificates-installation/install-ssl-certificate-overview
+
+grant acces mysql:
+https://linuxize.com/post/how-to-create-mysql-user-accounts-and-grant-privileges/#:~:text=A%20user%20account%20in%20MySQL,user_password%20with%20the%20user%20password.
+
+list of port running :
+lsof -P -iTCP | grep LISTEN
+
+sudo fuser -k 8000/tcp
+
+install docker:
+https://medium.com/@sh.tsang/installation-of-docker-3b18d9e70bea
+
+get composer:
+https://www.howtoforge.com/tutorial/install-laravel-on-ubuntu-for-apache/
+
+sudo for chgrp and chmod:
+sudo chgrp -R www-data /var/www/html/your-project
+sudo chmod -R 775 /var/www/html/your-project/storage
+
+spring boot:
+https://www.linode.com/docs/development/java/how-to-deploy-spring-boot-applications-nginx-ubuntu-16-04/
+
+docker:
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+
+kubernetes:
+https://kubernetes.io/docs/home/
+https://kubernetes.io/docs/setup/
+
+
+

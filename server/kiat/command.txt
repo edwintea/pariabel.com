@@ -1,0 +1,23 @@
+tet mail:
+echo "Test Email from the new server" | mail -s "Test Subject" youruser@gmail.com
+
+======================install java
+https://linuxize.com/post/install-java-on-ubuntu-18-04/
+===================== install postgres
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+================================= server block nginx
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04
+
+KILL PID by from port======================
+sudo netstat -lpn |grep :8080
+and press Enter.
+
+You will get an output similar to this one
+
+tcp6       0      0 :::8080                 :::*                    LISTEN      6782/java
+2- I have got the process Id, which is 6782, now this is the process that is using port 8080.
+
+3- Kill the process, type:kill 6782
+
+kill 6782
+================================================================
